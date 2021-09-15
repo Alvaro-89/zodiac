@@ -1,0 +1,10 @@
+body{
+    background-image: url("assets/img/starry-night-sky.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+}
+
+.modal{
+    color: black;
+}
